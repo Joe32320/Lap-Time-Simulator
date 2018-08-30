@@ -1,0 +1,11 @@
+﻿Team,Dry Mass,Power,CoD,LtD,BrakeG
+Mercedes,605,750,1,2.8,5.9
+Ferrari,605,750,1,2.6,5.8
+Red Bull,605,750,1,2.4,5.7
+Haas,605,750,1,2.2,5.6
+Renault,605,750,1,2,5.5
+Force India,605,750,1,1.8,5.4
+Williams,605,750,1,1.6,5.3
+Toro Rosso,605,750,1,1.4,5.2
+Sauber,605,750,1,1.2,5.1
+McClaren,605,750,1,1,5
